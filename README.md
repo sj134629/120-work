@@ -8,4 +8,4 @@ Samantha Jacobson
 4. I learn that all of this is time consumming. Especually when you have a problem and it takes almost an hour to solve it.
 5. I have not found out any issues that my classmates have had yet because this is one of the first assignments.
 
-![Image of my editor](markdown.png)
+![Image of my editor](markdowns.png)
