@@ -1,6 +1,6 @@
 ## Samantha Jacobson, HW-7
 
-[Live Sketch Link] (https://sj134629.github.io/120-work/HW-6/)
+[Live Sketch Link] (https://sj134629.github.io/120-work/HW-7/)
 
 # HW 7 | Describe then Alter the Bouncing Ball
 
