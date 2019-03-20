@@ -23,7 +23,6 @@ function draw() {
 
     for (let y = 0; y <= width; y = y + 50) {
       fill('rgb(244, 11, 227)');
-      ellipse(300, y, 25, 25);
       ellipse(300, y, 45, 45);
     }
   }
