@@ -13,7 +13,7 @@ Just trying to figure out the code for this project is going to be hard. There i
 
 ## MY PLAN
 
--create characters(using photoshop = should take 2 days max.
+-create characters(using illustrator = should take 2 days max.
 
 -figure out the movement of the characters = 5 days max
 
