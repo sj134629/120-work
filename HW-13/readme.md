@@ -2,10 +2,10 @@
 # Final Project Proposal
 
 ## What I want to make.
-I want to create one of those scenario games where the user can interact with the characters and make them do things.
+I want to create one of those scenario games where the user can interact with the characters and make them do things. I want to create a story that people can interact with. But I am going to use some of my brain to make it interesting.
 
 ## Inspiration
-The scenario games that you see people playing on their cell phone is part of my Inspiration for this project and from week 12 where you are able to make objects interact with each other.
+The scenario games that you see people playing on their cell phone is part of my inspiration for this project and from week 12 where you are able to make objects interact with each other.
 
 ## Problems
 Just trying to figure out the code for this project is going to be hard. There is going to be a lot of code in this project and it is going to be overwelming. If I mess up on the code I need to be organized or I am going to have a hard time figuring out what I did wrong. I might get stressed out because it's not working, to the point where I will want to through my computer across the room. I would like to make sure that, that does not happen. So I need to be organized when working on this project.
