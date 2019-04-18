@@ -2,7 +2,7 @@
 # Final Project Proposal
 
 ## What I want to make.
-I want to make a little animation of a sprite moving. Im going to use this using multiple different types of code we use through out this semester. I wanted to create one of those scenario games where the user can interact with the characters and make them do things. I want to create a story that people can interact with. But as I was trying to do this it was going to take up too much time.
+I want to make a little animation of a sprite moving with the mouse. Im going to use this using multiple different types of code we use through out this semester. I wanted to create one of those scenario games where the user can interact with the characters and make them do things. I want to create a story that people can interact with. But as I was trying to do this it was going to take up too much time.
 
 ## Inspiration
 My inspiration is animation itself. Week Five was also a big part of it.
