@@ -19,9 +19,11 @@ Just trying to figure out the code for this project is going to be hard. There i
 
 (should not take to long for backgrounds, characters and props to be done)
 
--figure out the movement of the characters = 2 days max
+-figure out the movement of the characters = 3 days max
 
--use the mouse tags to help create the interaction part between user. = 2 days max
+-use the mouse tags to help create the interaction part between user. = 3 days max
+
+- project touch ups = 2 days max
 
 I'm going to work on this project for a couple of hours each day till the project is due. If I just sit down and do it, it won't take to long. Hopefully it does not take to much of my time.
 
