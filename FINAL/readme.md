@@ -1,6 +1,7 @@
 ### Samantha Jacobson
 
 ## Final
+ live site link: http://127.0.0.1:3000/FINAL/
  link: https://sj134629.github.io/120-work/FINAL/
 
  ### What my final is:
