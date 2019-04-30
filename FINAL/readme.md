@@ -1,7 +1,7 @@
 ### Samantha Jacobson
 
 ## Final
- link: https://sj134629.github.io/120-work/HW-12/
+ link: https://sj134629.github.io/120-work/FINAL/
 
  ### What my final is:
  So when I was thinking of what I wanted to do, I wanted to do something where the user could interact with it. So I thought it would be cool to do one of those japanese games where you pick an option and something will happen, or you pick a different option and something different will happen. But as I was try to write it out I realized that this project was going to take longer than expected. So I had to change my project to something a little more simple. So I created a wak'a'mole.
